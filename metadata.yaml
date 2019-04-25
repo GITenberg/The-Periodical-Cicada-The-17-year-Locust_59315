@@ -1,11 +1,16 @@
 _repo: The-Periodical-Cicada-The-17-year-Locust_59315
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59315-h/images/cover_image.png
 creator:
   author:
     agent_name: Agriculture, United States Department of
     gutenberg_agent_id: '50391'
     url: http://www.gutenberg.org/2009/agents/50391
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59315#The-Periodical-Cicada-The-17-year-Locust
 gutenberg_issued: '2019-04-20'
 gutenberg_type: Text
 identifiers:
